@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentData1</string>
+    <string name="explain">Launch button will send the text you type to Activity2.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2">IntentData1 Activity2</string>
+    <string name="nodata">No Data Received</string>
+    <string name="fromChild">Data Received from Child</string>
+
+</resources>

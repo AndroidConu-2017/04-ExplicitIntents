@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvresult1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fired via Explicit Intent, push a button to return result"
+       />
+
+    <Button
+        android:id="@+id/btresult1"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:onClick="thisResult"
+        android:text="Return This Result (ok)" />
+
+    <Button
+        android:id="@+id/btresult2"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:onClick="thatResult"
+        android:text="Return That Result (canceled)" />
+
+</LinearLayout>

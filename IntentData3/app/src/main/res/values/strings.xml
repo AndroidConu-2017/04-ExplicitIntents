@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentData3</string>
+    <string name="explain">Launch <i>x</i> button will send the text you type to Activity<i>x</i>.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2">IntentData3 Activity2</string>
+    <string name="title_activity_activity3">IntentData3 Activity3</string>
+    <string name="nodata">No Data Received</string>
+    <string name="fromChild">Data Received from Child</string>
+    <string name="fromParent">Data Received from Parent</string>
+    <string name="hintParent">Type here, data sent to Activity</string>
+    <string name="hintChild">Type here, data sent back to caller.</string>
+        <string name="missingExtra">Missing expected extra data.</string>
+        <string name="missingIntent">No intent.</string>
+        <string name="unknownReq">Invalid request, activity unknown.</string>
+</resources>
