@@ -1,10 +1,10 @@
 # week06-ExplicitIntents-DataExchange
-*Explicit Intents are used when you 
+* Explicit Intents are used when you 
 explicitly name the intended Activity
-*Implicit Intents are used when you let Android discover
+* Implicit Intents are used when you let Android discover
 the intended Activity or app
 
-These are separate repos, may be easier to import them separately.
+*These are separate repos, may be easier to import them separately.*
 
 Data exchange using intents and results.
 
